@@ -1,0 +1,22 @@
+[vc_row el_id="price" el_class="section price-table"][vc_column][vc_custom_heading text="Select Your Perfect Plan" font_container="tag:h2|text_align:center" use_theme_fonts="yes" el_class="title"][vc_custom_heading text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat nobis." font_container="tag:h5|text_align:center" use_theme_fonts="yes" el_class="description"][vc_empty_space height="50px"][vc_row_inner][vc_column_inner width="1/3"][ultimate_pricing color_scheme="custom" color_bg_main="#ffffff" color_txt_main="#3c4858" color_bg_highlight="#ffffff" color_txt_highlight="#3c4858" package_heading="Basic" package_price="$29" package_unit="/mo" package_btn_text="Get Started" el_class="card card-pricing"]
+<ul>
+ 	<li><b>1</b> User</li>
+ 	<li><b>5</b> Members</li>
+ 	<li><b>55</b> Private Message</li>
+ 	<li><i class="fa fa-times"> </i> Customer Support</li>
+</ul>
+[/ultimate_pricing][/vc_column_inner][vc_column_inner width="1/3"][ultimate_pricing color_scheme="custom" color_bg_main="#e91e63" color_txt_main="#ffffff" color_bg_highlight="#e91e63" color_txt_highlight="#ffffff" package_heading="Pro" package_price="$39" package_unit="/mo" package_btn_text="Get Started" package_featured="enable" el_class="card card-pricing "]
+<ul>
+ 	<li><b>100</b> Users</li>
+ 	<li><b>50</b> Members</li>
+ 	<li><b>125</b> Private Message</li>
+ 	<li><i class="fa fa-check-square-o"> </i> Customer Support</li>
+</ul>
+[/ultimate_pricing][/vc_column_inner][vc_column_inner width="1/3"][ultimate_pricing color_scheme="custom" color_bg_main="#ffffff" color_txt_main="#3c4858" color_bg_highlight="#ffffff" color_txt_highlight="#3c4858" package_heading="Ultimate" package_price="$99" package_unit="/mo" package_btn_text="Get Started" el_class="card card-pricing "]
+<ul>
+ 	<li><b>1000</b> Users</li>
+ 	<li><b>100</b> Members</li>
+ 	<li><b>550</b> Private Message</li>
+ 	<li><i class="fa fa-check-square-o"> </i> Customer Support</li>
+</ul>
+[/ultimate_pricing][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
